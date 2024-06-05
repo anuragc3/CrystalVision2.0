@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#################################
+# Unreal Engine Generated Files #
+#################################
+/CV2(NewGamePCVersion)/[Bb]uild
+/CV2(NewGamePCVersion)/[Bb]uilds
+/CV2(NewGamePCVersion)/Binaries
+/CV2(NewGamePCVersion)/DerivedDataCache
+/CV2(NewGamePCVersion)/Intermediate
+/CV2(NewGamePCVersion)/Saved
