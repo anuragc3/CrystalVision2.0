@@ -76,9 +76,9 @@ DerivedDataCache/*
 #################################
 # Unreal Engine Generated Files #
 #################################
-/CV2(NewGamePCVersion)/[Bb]uild
-/CV2(NewGamePCVersion)/[Bb]uilds
-/CV2(NewGamePCVersion)/Binaries
-/CV2(NewGamePCVersion)/DerivedDataCache
-/CV2(NewGamePCVersion)/Intermediate
-/CV2(NewGamePCVersion)/Saved
+/CV2/[Bb]uild
+/CV2/[Bb]uilds
+/CV2/Binaries
+/CV2/DerivedDataCache
+/CV2/Intermediate
+/CV2/Saved
