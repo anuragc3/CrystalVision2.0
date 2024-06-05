@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CV2",
+			"Path": "..\\Source\\CV2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CV2Editor",
+			"Path": "..\\Source\\CV2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

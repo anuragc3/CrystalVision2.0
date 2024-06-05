@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kfrod\\desktop\\cv2\\intermediate\\build\\win64\\unrealgame\\inc\\cv2\\uht\\cv2.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kfrod\\desktop\\cv2\\intermediate\\build\\win64\\x64\\cv2\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kfrod\\desktop\\cv2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cv2\\definitions.cv2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

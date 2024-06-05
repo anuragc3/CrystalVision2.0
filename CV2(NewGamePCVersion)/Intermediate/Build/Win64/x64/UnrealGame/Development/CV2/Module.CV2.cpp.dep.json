@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cv2reviewready\\cv2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cv2\\module.cv2.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cv2reviewready\\cv2\\intermediate\\build\\win64\\x64\\cv2\\development\\engine\\sharedpch.engine.cpp17.h.pch",
+        "Includes": [
+            "d:\\cv2reviewready\\cv2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cv2\\definitions.cv2.h",
+            "d:\\cv2reviewready\\cv2\\intermediate\\source\\cv2.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

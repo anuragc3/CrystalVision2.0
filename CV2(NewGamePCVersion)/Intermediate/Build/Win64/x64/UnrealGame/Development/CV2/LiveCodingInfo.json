@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CV2.cpp.obj": [
+			"CV2.cpp.obj"
+		]
+	}
+}
